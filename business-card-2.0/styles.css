@@ -15,7 +15,7 @@ body {
 
 .card {
     width: 400px;
-    margin: 0 auto;
+    margin: 20% auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
